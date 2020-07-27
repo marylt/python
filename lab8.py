@@ -1,9 +1,3 @@
-'''
-Name: Mary Ton
-StudentDirectory ID: mton
-Date: 2019-10-28
-Assignment: Homework 4 Relational Databases
-'''
 
 # libraries to be imported
 import sqlite3
