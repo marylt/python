@@ -1,9 +1,3 @@
-'''
-Name: Mary Ton
-StudentDirectory ID: mton
-Date: 2019-10-11
-Assignment: Homework 2
-'''
 
 # required libraries and lists
 import csv
