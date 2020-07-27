@@ -1,9 +1,4 @@
-'''
-Name: Mary Ton
-StudentDirectory ID: mton
-Date: 2019-10-11
-Assignment: Module 6 Lab Worksheet
-'''
+
 class Pizza():
 
     def __init__(self):
