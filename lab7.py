@@ -1,9 +1,3 @@
-'''
-Name: Mary Ton
-StudentDirectory ID: mton
-Date: 2019-10-28
-Assignment: Module 7 Lab
-'''
 
 # libraries to be imported
 import re
