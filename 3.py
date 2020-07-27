@@ -1,9 +1,3 @@
-'''
-Name: Mary Ton
-StudentDirectory ID: mton
-Date: 2019-10-21
-Assignment: Homework 3
-'''
 
 # libraries to be imported:
 import sys
